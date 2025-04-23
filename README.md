@@ -1,6 +1,8 @@
 # Pumpfun voume and market maker bot 
 
-This is script that optimize market making process by automatic buy and sell, boost token volume. This is for giving basic understanding about volume bot and market maker. Feel free to reach out of me when you need full script and custom requirement[Telegram: https://t.me/DevCutup, Whatsapp: https://wa.me/13137423660].
+This is script that optimize market making process by automatic buy and sell, boost token volume. 
+This is for giving basic understanding about volume bot and market maker. 
+Feel free to reach out of me when you need full script and custom requirement.
 
 ## Functionality
 
@@ -18,10 +20,10 @@ This is script that optimize market making process by automatic buy and sell, bo
 
 ```bash
 # Clone the repository
-git clone https://github.com/cutupdev/Pumpfun-Volume-Market-Maker-Bot.git
+git clone https://github.com/keidev-sol/Solana-Pumpfun-Volume-Market-Maker-Bot.git
 
 # Navigate to project directory
-cd Pumpfun-Volume-Market-Maker-Bot
+cd Solana-Pumpfun-Volume-Market-Maker-Bot
 
 # Install dependencies
 npm install
@@ -33,7 +35,8 @@ npm install
 npm run start
 ```
 
-### Contacts
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter:  https://x.com/devcutup
+## Contact
+
+- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
+- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650)  
+
