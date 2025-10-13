@@ -1,4 +1,4 @@
-# Pumpfun voume and market maker bot 
+# Pumpfun volume and market maker bot 
 
 This is script that optimize market making process by automatic buy and sell, boost token volume. 
 This is for giving basic understanding about volume bot and market maker. 
